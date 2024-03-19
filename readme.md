@@ -1,3 +1,4 @@
+````markdown
 # Weather App
 
 This is a simple Weather App that allows users to check the current weather and 5-day forecast for a specific city.
@@ -21,9 +22,36 @@ This is a simple Weather App that allows users to check the current weather and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/naufaldi/weather-app.git
+   git clone https://github.com/your-username/weather-app.git
    ```
+````
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd weather-app
+   ```
+
+3. Open `index.html` in your web browser:
+
+   ```bash
+   google-chrome index.html
+   ```
+
+4. Enter the name of the city for which you want to check the weather and click the "Search" button.
+
+## Credits
+
+This Weather App was created by [Your Name].
+
+## License
+
+This project is licensed under the [MIT License](license.md).
 
 ## Purpose
 
 - Hacktiv8 Workshop
+
+```
+
+```
